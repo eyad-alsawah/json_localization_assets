@@ -1,15 +1,18 @@
 {
-    "welcomeMessage": "Welcome!",
-    "greeting": "Good day, {name}!",
-    "farewell": "Goodbye!",
-    "menu": {
-      "home": "Home",
-      "about": "About us",
-      "contact": "Contact"
+  "profileScreen": {
+    "pageTitle": "Profile",
+    "userInfo": {
+      "nameLabel": "Name",
+      "emailLabel": "Email",
+      "phoneNumberLabel": "Phone Number",
+      "bioLabel": "Bio"
     },
-    "errors": {
-      "notFound": "Page not found",
-      "serverError": "Server error"
+    "actions": {
+      "editProfile": "Edit Profile",
+      "logout": "Logout"
+    },
+    "messages": {
+      "logoutConfirmation": "Are you sure you want to logout?"
     }
   }
-  
+}
