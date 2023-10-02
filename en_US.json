@@ -1,0 +1,15 @@
+{
+    "welcomeMessage": "Welcome!",
+    "greeting": "Good day, {name}!",
+    "farewell": "Goodbye!",
+    "menu": {
+      "home": "Home",
+      "about": "About us",
+      "contact": "Contact"
+    },
+    "errors": {
+      "notFound": "Page not found",
+      "serverError": "Server error"
+    }
+  }
+  
