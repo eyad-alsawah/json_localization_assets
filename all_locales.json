@@ -1,1 +1,30 @@
-{}
+{
+    "languages": [
+      {
+        "languageCode": "en",
+        "countryCode": "US",
+        "translations": ""
+      },
+      {
+        "languageCode": "fr",
+        "countryCode": "FR",
+        "translations": ""
+      },
+      {
+        "languageCode": "de",
+        "countryCode": "DE",
+        "translations": ""
+      },
+        {
+        "languageCode": "ru",
+        "countryCode": "RU",
+          "translations": ""
+      },
+          {
+        "languageCode": "zh",
+        "countryCode": "CN",
+            "translations": ""
+      }
+    ]
+  }
+  
