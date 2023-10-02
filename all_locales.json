@@ -7,7 +7,7 @@
   "profileScreen": {
     "pageTitle": "Profile",
     "userInfo": {
-      "nameLabel": "Name",
+      "nameLabel": "Names",
       "emailLabel": "Email",
       "phoneNumberLabel": "Phone Number",
       "bioLabel": "Bio"
