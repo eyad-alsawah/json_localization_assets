@@ -1,0 +1,21 @@
+{
+    "languages": [
+      {
+        "languageCode": "en",
+        "countryCode": "US"
+      },
+      {
+        "languageCode": "es",
+        "countryCode": "ES"
+      },
+      {
+        "languageCode": "fr",
+        "countryCode": "FR"
+      },
+      {
+        "languageCode": "de",
+        "countryCode": "DE"
+      }
+    ]
+  }
+  
