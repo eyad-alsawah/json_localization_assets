@@ -1,0 +1,19 @@
+{
+    "profileScreen": {
+      "pageTitle": "Профиль",
+      "userInfo": {
+        "nameLabel": "Имя",
+        "emailLabel": "Эл. почта",
+        "phoneNumberLabel": "Номер телефона",
+        "bioLabel": "Биография"
+      },
+      "actions": {
+        "editProfile": "Редактировать профиль",
+        "logout": "Выйти"
+      },
+      "messages": {
+        "logoutConfirmation": "Вы уверены, что хотите выйти?"
+      }
+    }
+  }
+  
