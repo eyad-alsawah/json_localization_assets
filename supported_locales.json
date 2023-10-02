@@ -5,16 +5,20 @@
         "countryCode": "US"
       },
       {
-        "languageCode": "es",
-        "countryCode": "ES"
-      },
-      {
         "languageCode": "fr",
         "countryCode": "FR"
       },
       {
         "languageCode": "de",
         "countryCode": "DE"
+      },
+        {
+        "languageCode": "ru",
+        "countryCode": "RU"
+      },
+          {
+        "languageCode": "zh",
+        "countryCode": "CH"
       }
     ]
   }
