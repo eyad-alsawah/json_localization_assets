@@ -1,118 +1,119 @@
 {
-    "languages": [
-      {
-        "languageCode": "en",
-        "countryCode": "US",
-        "translations": {
-  "profileScreen": {
-    "pageTitle": "Profile",
-    "userInfo": {
-      "nameLabel": "Names",
-      "emailLabel": "Email",
-      "phoneNumberLabel": "Phone Number",
-      "bioLabel": "Bio"
+  "languages": [
+    {
+      "languageCode": "en",
+      "countryCode": "US",
+      "translations": {
+        "dynamic_localization": "Dynamic Localization",
+        "profileScreen": {
+          "pageTitle": "Profile",
+          "userInfo": {
+            "nameLabel": "Name",
+            "emailLabel": "Email",
+            "phoneNumberLabel": "Phone Number",
+            "bioLabel": "Bio"
+          },
+          "actions": {
+            "editProfile": "Edit Profile",
+            "logout": "Logout"
+          },
+          "messages": {
+            "logoutConfirmation": "Are you sure you want to logout?"
+          }
+        }
+      }
     },
-    "actions": {
-      "editProfile": "Edit Profile",
-      "logout": "Logout"
+    {
+      "languageCode": "fr",
+      "countryCode": "FR",
+      "translations": {
+        "dynamic_localization": "Localisation Dynamique",
+        "profileScreen": {
+          "pageTitle": "Profil",
+          "userInfo": {
+            "nameLabel": "Nom",
+            "emailLabel": "E-mail",
+            "phoneNumberLabel": "Numéro de téléphone",
+            "bioLabel": "Biographie"
+          },
+          "actions": {
+            "editProfile": "Modifier le profil",
+            "logout": "Se déconnecter"
+          },
+          "messages": {
+            "logoutConfirmation": "Êtes-vous sûr de vouloir vous déconnecter ?"
+          }
+        }
+      }
     },
-    "messages": {
-      "logoutConfirmation": "Are you sure you want to logout?"
+    {
+      "languageCode": "de",
+      "countryCode": "DE",
+      "translations": {
+        "dynamic_localization": "Dynamische Lokalisierung",
+        "profileScreen": {
+          "pageTitle": "Profil",
+          "userInfo": {
+            "nameLabel": "Name",
+            "emailLabel": "E-Mail",
+            "phoneNumberLabel": "Telefonnummer",
+            "bioLabel": "Biografie"
+          },
+          "actions": {
+            "editProfile": "Profil bearbeiten",
+            "logout": "Abmelden"
+          },
+          "messages": {
+            "logoutConfirmation": "Möchten Sie sich wirklich abmelden?"
+          }
+        }
+      }
+    },
+    {
+      "languageCode": "ru",
+      "countryCode": "RU",
+      "translations": {
+        "dynamic_localization": "Динамическая локализация",
+        "profileScreen": {
+          "pageTitle": "Профиль",
+          "userInfo": {
+            "nameLabel": "Имя",
+            "emailLabel": "Эл. почта",
+            "phoneNumberLabel": "Номер телефона",
+            "bioLabel": "Биография"
+          },
+          "actions": {
+            "editProfile": "Редактировать профиль",
+            "logout": "Выйти"
+          },
+          "messages": {
+            "logoutConfirmation": "Вы уверены, что хотите выйти?"
+          }
+        }
+      }
+    },
+    {
+      "languageCode": "zh",
+      "countryCode": "CN",
+      "translations": {
+        "dynamic_localization": "动态本地化",
+        "profileScreen": {
+          "pageTitle": "个人资料",
+          "userInfo": {
+            "nameLabel": "姓名",
+            "emailLabel": "电子邮件",
+            "phoneNumberLabel": "电话号码",
+            "bioLabel": "个人简介"
+          },
+          "actions": {
+            "editProfile": "编辑个人资料",
+            "logout": "登出"
+          },
+          "messages": {
+            "logoutConfirmation": "您确定要登出吗？"
+          }
+        }
+      }
     }
-  }
+  ]
 }
-      },
-      {
-        "languageCode": "fr",
-        "countryCode": "FR",
-        "translations": {
-    "profileScreen": {
-      "pageTitle": "Profil",
-      "userInfo": {
-        "nameLabel": "Nom",
-        "emailLabel": "E-mail",
-        "phoneNumberLabel": "Numéro de téléphone",
-        "bioLabel": "Biographie"
-      },
-      "actions": {
-        "editProfile": "Modifier le profil",
-        "logout": "Se déconnecter"
-      },
-      "messages": {
-        "logoutConfirmation": "Êtes-vous sûr de vouloir vous déconnecter ?"
-      }
-    }
-  }
-  
-      },
-      {
-        "languageCode": "de",
-        "countryCode": "DE",
-        "translations": {
-  "profileScreen": {
-    "pageTitle": "Profil",
-    "userInfo": {
-      "nameLabel": "Name",
-      "emailLabel": "E-Mail",
-      "phoneNumberLabel": "Telefonnummer",
-      "bioLabel": "Biografie"
-    },
-    "actions": {
-      "editProfile": "Profil bearbeiten",
-      "logout": "Abmelden"
-    },
-    "messages": {
-      "logoutConfirmation": "Möchten Sie sich wirklich abmelden?"
-    }
-  }
-}
-      },
-        {
-        "languageCode": "ru",
-        "countryCode": "RU",
-          "translations": {
-    "profileScreen": {
-      "pageTitle": "Профиль",
-      "userInfo": {
-        "nameLabel": "Имя",
-        "emailLabel": "Эл. почта",
-        "phoneNumberLabel": "Номер телефона",
-        "bioLabel": "Биография"
-      },
-      "actions": {
-        "editProfile": "Редактировать профиль",
-        "logout": "Выйти"
-      },
-      "messages": {
-        "logoutConfirmation": "Вы уверены, что хотите выйти?"
-      }
-    }
-  }
-  
-      },
-          {
-        "languageCode": "zh",
-        "countryCode": "CN",
-            "translations": {
-    "profileScreen": {
-      "pageTitle": "个人资料",
-      "userInfo": {
-        "nameLabel": "姓名",
-        "emailLabel": "电子邮件",
-        "phoneNumberLabel": "电话号码",
-        "bioLabel": "个人简介"
-      },
-      "actions": {
-        "editProfile": "编辑个人资料",
-        "logout": "登出"
-      },
-      "messages": {
-        "logoutConfirmation": "您确定要登出吗？"
-      }
-    }
-  }
-  
-      }
-    ]
-  }
-  
